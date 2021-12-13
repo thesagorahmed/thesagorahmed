@@ -1,6 +1,11 @@
 ### Hi there 👋, I'm Sagor Ahmed
-#### Web Developer
-A passionate Web Developer & WordPress Enthusiastic. I build a web of things and founded @WPChapter -a WordPress Web Building Agency Services Ltd. I love to make the web more open to the world. I am available for any kind of job opportunity that suits my skills. From other parts of my adult life, I’ve been traveling, seeking adventure and ways to learn from and interact with cultures that are very different from my own. Photography became a great excuse to look deeper and to make my experiences more intense.
+#### I'm a front-end Web Developer and WordPress Specialist
+
+I'm a WordPress Web Developer who works with agencies and individual to efficiently bring their designs to life.
+
+A self-taught web developer since 2019, I've worked on everything from small websites to large web applications.
+
+I love to make the web more open to the world. I am available for any kind of job opportunity that suits my skills. From other parts of my adult life, I’ve been traveling, seeking adventure and ways to learn from and interact with cultures that are very different from my own. Photography became a great excuse to look deeper and to make my experiences more intense.
 
 Skills: HTML / CSS / JS / REACT / WORDPRESS
 
